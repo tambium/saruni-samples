@@ -1,0 +1,9 @@
+{
+  "name": "@tambium/saruni-samples",
+  "author": "Tambium",
+  "license": "Apache-2.0",
+  "private": true,
+  "workspaces": [
+    "guides/*"
+  ]
+}
