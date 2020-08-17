@@ -1,0 +1,9 @@
+{
+  "name": "nat-serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0"
+  }
+}
